@@ -1,0 +1,14 @@
+Classes Code
+Disassembly
+Function Functions
+Objects
+Strings
+references
+- User set 1:
+- User set 2:
+- User set 3: // x86 Registers
+ax bx cx dx ex si di bp sp ss es ds cs ip
+al ah bl bh ch cl dh dl eh el
+eax ebx ebp ecx edi edx esi esp
+xmm0 xmm1 xmm2 xmm3 xmm4 xmm5 xmm6 xmm7
+- User set 4:

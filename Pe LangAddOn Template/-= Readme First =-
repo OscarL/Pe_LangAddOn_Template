@@ -1,0 +1,7 @@
+To recompile this add-on: (using the .proj you don't need Pe sources)
+
+1 - "_APP_" must point to your Pe executable. (Currently it points to _my_ Pe)
+2 - Be sure to add the "keyword.XxX" file as a resource. with type == "KeyW".
+    Open the newly created addon with QuickRes and drag and drop the file to that
+    window (or just copy the file to Pe's settings folder, that works too, but if
+    you use that add on in another partition it will miss the keywords).
